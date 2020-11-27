@@ -2,7 +2,7 @@
 baseurl: "https://architp16.github.io/VentureDude/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "UA-46465113-2"
+google_analytics: "G-JDHGHGK73N"
 
 # UI configs
 title: "Man Behind The Camera"
@@ -14,7 +14,7 @@ header:
 footer:
  name: "Hey there, my name is Archit"
  bio: "My mission is to create images that inspire current and future generations to respect and conserve the natural world and beyond."
- follow: "Follow me on Instagram <a href=\"https://www.instagram.com/theadventuredude\">@TheAdventureDude</a>"
+ github: "Follow me on Instagram <a href=\"https://www.instagram.com/theadventuredude\">@TheAdventureDude</a>"
 social_urls:
   facebook: "https://www.facebook.com/archit16"
   twitter: "https://www.twitter.com/16archit"
