@@ -1,26 +1,25 @@
 # Base configs
-baseurl: "www.venturedude.com"
+baseurl: "https://photography.rampatra.com"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "G-S77MZVHSRX"
+google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by Archit"
+title: "Photography by Ram Patra"
 subtitle: "See the world through my eyes!"
-author: "Archit Patel"
+author: "Ram Patra"
 header:
-title: "Photography"
-subtitle: "by Archit Patel"
+ title: "Photography"
+ subtitle: "by Ram Patra"
 footer:
-name: "Hey there, my name is Archit"
-bio: "COMING SOON."
-github: "Find me on Instagram @TheAdventureDude"
-web_design: "AP"
+ name: "Hey there, my name is Ram"
+ bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
+ github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
+web_design: "AJ"
 social_urls:
-facebook: "https://www.facebook.com/archit16"
-twitter: "https://www.twitter.com/16archit"
-instagram: "https://www.instagram.com/theadventuredude" 
-linkedin: "https://linkedin.com/in/architp"
-
-
-theme: jekyll-theme-cayman
+  facebook: "https://www.facebook.com/ramswaroop"
+  twitter: "https://www.twitter.com/ram__patra"
+  instagram: "https://www.instagram.com/ram_patra"
+  dribbble: "https://dribbble.com/rampatra"
+  linkedin: "https://in.linkedin.com/in/ram-patra"
+  github: "https://www.github.com/rampatra"
