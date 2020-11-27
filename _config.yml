@@ -6,15 +6,15 @@ google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photography by Archit Patel"
-subtitle: "See the world through my eyes!"
+subtitle: "The Man Behind The Camera"
 author: "Archit Patel"
 header:
  title: "Photography"
  subtitle: "by Archit Patel"
 footer:
  name: "Hey there, my name is Archit"
- bio: "Coming Soon"
- github: "Follow me on Instagram <a href=\"https://https://www.instagram.com/archit16\">@TheAdventureDude</a>"
+ bio: "My mission is to create images that educate and inspire current and future generations to respect and conserve the natural world and beyond."
+ github: "Follow me on Instagram <a href=\"https://www.instagram.com/archit16\">@TheAdventureDude</a>"
 social_urls:
   facebook: "https://www.facebook.com/archit16"
   twitter: "https://www.twitter.com/16archit"
