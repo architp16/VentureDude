@@ -1,0 +1,26 @@
+# Base configs
+baseurl: "https://venturedude.com"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "G-S77MZVHSRX"
+
+# UI configs
+title: "Photography by Archit"
+subtitle: "See the world through my eyes!"
+author: "Archit Patel"
+header:
+title: "Photography"
+subtitle: "by Archit Patel"
+footer:
+name: "Hey there, my name is Archit"
+bio: "COMING SOON."
+github: "Find me on Instagram @TheAdventureDude"
+web_design: "AP"
+social_urls:
+facebook: "https://www.facebook.com/archit16"
+twitter: "https://www.twitter.com/16archit"
+instagram: "https://www.instagram.com/theadventuredude" 
+linkedin: "https://linkedin.com/in/architp"
+
+
+theme: jekyll-theme-cayman
